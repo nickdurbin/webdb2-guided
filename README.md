@@ -4,7 +4,7 @@ Guided project **DB II** Module.
 
 ## Prerequisites
 
-- [SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download) installed.
+- [SQLite Browser](https://sqlitebrowser.org) installed.
 - a REST client alike [Insomnia](https://insomnia.rest/download/) or [Postman](https://www.getpostman.com/downloads/) installed.
 - create a free account for [DB Designer](https://dbdesigner.net).
 
